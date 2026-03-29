@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Chau Duong"
+site_name = "SQL for non-developers"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -45,8 +45,18 @@ Copyright &copy; 2026 Duong Do Minh Chau
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "An introduction to database" = "database-introduction/index.md" },
-    { "Database for non-developers" = "database-for-non-developers/index.md" },
+    { "Database" = [
+        { "Getting started" = "getting-started.md" },
+        { "Creating tables" = "creating-tables.md" },
+        { "Working with table data" = "working-with-table-data.md" },
+        { "Functions and operators" = "functions-and-operators.md" },
+        { "The value NULL" = "the-value-null.md" },
+        { "Sorting and pagination" = "sorting-and-pagination.md" },
+        { "Unique, default, and key" = "unique-default-key.md" },
+        { "Grouping and aggregation" = "grouping-and-aggregation.md" },
+        { "Relationships and table joining" = "relationships-and-table-joining.md" },
+        { "Draft" = "draft.md" },
+    ] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
