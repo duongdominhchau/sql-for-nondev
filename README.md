@@ -1,3 +1,3 @@
-# Personal website
+# SQL for non-developers
 
-Nothing here for now
+A book for learning SQL via examples and practices.
