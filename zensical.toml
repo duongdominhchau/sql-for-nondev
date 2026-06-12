@@ -45,18 +45,16 @@ Copyright &copy; 2026 Duong Do Minh Chau
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "Database" = [
-        { "Getting started" = "getting-started.md" },
-        { "Creating tables" = "creating-tables.md" },
-        { "Working with table data" = "working-with-table-data.md" },
-        { "Functions and operators" = "functions-and-operators.md" },
-        { "The value NULL" = "the-value-null.md" },
-        { "Sorting and pagination" = "sorting-and-pagination.md" },
-        { "Unique, default, and key" = "unique-default-key.md" },
-        { "Grouping and aggregation" = "grouping-and-aggregation.md" },
-        { "Relationships and table joining" = "relationships-and-table-joining.md" },
-        { "Draft" = "draft.md" },
-    ] },
+    { "Getting started" = "getting-started.md" },
+    { "Creating tables" = "creating-tables.md" },
+    { "Working with table data" = "working-with-table-data.md" },
+    { "Functions and operators" = "functions-and-operators.md" },
+    { "The value NULL" = "the-value-null.md" },
+    { "Sorting and pagination" = "sorting-and-pagination.md" },
+    { "Unique, default, and key" = "unique-default-key.md" },
+    { "Grouping and aggregation" = "grouping-and-aggregation.md" },
+    { "Relationships and table joining" = "relationships-and-table-joining.md" },
+    { "Draft" = "draft.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
